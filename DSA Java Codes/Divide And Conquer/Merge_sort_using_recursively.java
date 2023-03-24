@@ -13,6 +13,7 @@ public class Merge_sort_using_recursively {
     }
 
     public static void merge(int arr[], int si, int mid, int ei){
+        // left part (0,3)=4 right part (4,6)=3 -> 6-0 +1 = 7
         int temp[] = new int[ei-si+1]; // temp array
         int i=si;
         int j=mid+1;
