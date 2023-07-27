@@ -16,7 +16,7 @@ public class Sorting_An_ArrayList {
         }
     }
     public static void main(String args[]){
-        ArrayList<Integer> list = new ArrayList<>();
+        ArrayList<W> list = new ArrayList<>();
         list.add(131);
         list.add(12);
         list.add(1322);
