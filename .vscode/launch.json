@@ -1,0 +1,1652 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction_classes",
+            "request": "launch",
+            "mainClass": "Abstraction_classes",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Access_modifiers",
+            "request": "launch",
+            "mainClass": "Access_modifiers",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Add_first_LL",
+            "request": "launch",
+            "mainClass": "Add_first_LL",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Add_last_in_LL",
+            "request": "launch",
+            "mainClass": "Add_last_in_LL",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "All_first_end_size_display",
+            "request": "launch",
+            "mainClass": "All_first_end_size_display",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Array_input_output_updation",
+            "request": "launch",
+            "mainClass": "Array_input_output_updation",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Arrays_as_function_arguments",
+            "request": "launch",
+            "mainClass": "Arrays_as_function_arguments",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Average_of_three_number_in_function",
+            "request": "launch",
+            "mainClass": "Average_of_three_number_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Backtracking_on_arrays",
+            "request": "launch",
+            "mainClass": "Backtracking_on_arrays",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Basic_Calculator",
+            "request": "launch",
+            "mainClass": "Basic_Calculator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Best_case_bubble_sort",
+            "request": "launch",
+            "mainClass": "Best_case_bubble_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_AND_operator",
+            "request": "launch",
+            "mainClass": "Binary_AND_operator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_OR_operator",
+            "request": "launch",
+            "mainClass": "Binary_OR_operator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_XOR_operator",
+            "request": "launch",
+            "mainClass": "Binary_XOR_operator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_left_shift_operator",
+            "request": "launch",
+            "mainClass": "Binary_left_shift_operator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_ones_complement",
+            "request": "launch",
+            "mainClass": "Binary_ones_complement",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_right_shift_operator",
+            "request": "launch",
+            "mainClass": "Binary_right_shift_operator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_search",
+            "request": "launch",
+            "mainClass": "Binary_search",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_search_in_two_d_array",
+            "request": "launch",
+            "mainClass": "Binary_search_in_two_d_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binary_to_decimal",
+            "request": "launch",
+            "mainClass": "Binary_to_decimal",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Binomial_coefficient_in_function",
+            "request": "launch",
+            "mainClass": "Binomial_coefficient_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Bit_manipulation",
+            "request": "launch",
+            "mainClass": "Bit_manipulation",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Break_statement",
+            "request": "launch",
+            "mainClass": "Break_statement",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_sort",
+            "request": "launch",
+            "mainClass": "Bubble_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly_pattern",
+            "request": "launch",
+            "mainClass": "Butterfly_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Buy_and_sell_stocks",
+            "request": "launch",
+            "mainClass": "Buy_and_sell_stocks",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Buy_and_sell_stocks2",
+            "request": "launch",
+            "mainClass": "Buy_and_sell_stocks2",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Calculate_factorial_in_java",
+            "request": "launch",
+            "mainClass": "Calculate_factorial_in_java",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_array_is_sorted_or_not_using_recursion",
+            "request": "launch",
+            "mainClass": "Check_array_is_sorted_or_not_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_even_odd_in_function",
+            "request": "launch",
+            "mainClass": "Check_even_odd_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_even_odd_with_operator",
+            "request": "launch",
+            "mainClass": "Check_even_odd_with_operator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_fever",
+            "request": "launch",
+            "mainClass": "Check_fever",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_if_a_number_is_power_of_two_or_not",
+            "request": "launch",
+            "mainClass": "Check_if_a_number_is_power_of_two_or_not",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_if_a_number_is_prime_of_not",
+            "request": "launch",
+            "mainClass": "Check_if_a_number_is_prime_of_not",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_leap_year",
+            "request": "launch",
+            "mainClass": "Check_leap_year",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_negative_positive",
+            "request": "launch",
+            "mainClass": "Check_negative_positive",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_palindrome_in_function",
+            "request": "launch",
+            "mainClass": "Check_palindrome_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_palindrome_ll",
+            "request": "launch",
+            "mainClass": "Check_palindrome_ll",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_palindrome_string",
+            "request": "launch",
+            "mainClass": "Check_palindrome_string",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_prime_in_function",
+            "request": "launch",
+            "mainClass": "Check_prime_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_twice_value",
+            "request": "launch",
+            "mainClass": "Check_twice_value",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Check_weather_two_strings_are_anagram",
+            "request": "launch",
+            "mainClass": "Check_weather_two_strings_are_anagram",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Classess_and_objects",
+            "request": "launch",
+            "mainClass": "Classess_and_objects",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Clear_ith_bit",
+            "request": "launch",
+            "mainClass": "Clear_ith_bit",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Clear_last_i_bits",
+            "request": "launch",
+            "mainClass": "Clear_last_i_bits",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Clear_range_of_bits",
+            "request": "launch",
+            "mainClass": "Clear_range_of_bits",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Compare_string",
+            "request": "launch",
+            "mainClass": "Compare_string",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Container_With_Most_water_Brute_Force",
+            "request": "launch",
+            "mainClass": "Container_With_Most_water_Brute_Force",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Container_With_Most_water_Two_Pointer_Approach",
+            "request": "launch",
+            "mainClass": "Container_With_Most_water_Two_Pointer_Approach",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Continue_statement",
+            "request": "launch",
+            "mainClass": "Continue_statement",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Convert_decimal_into_string_like_2019_two_zero_one_nine_using_recursion",
+            "request": "launch",
+            "mainClass": "Convert_decimal_into_string_like_2019_two_zero_one_nine_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Convert_decimal_into_string_like_2019_two_zero_one_nine_using_recursion2",
+            "request": "launch",
+            "mainClass": "Convert_decimal_into_string_like_2019_two_zero_one_nine_using_recursion2",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Convert_letter_upper_case",
+            "request": "launch",
+            "mainClass": "Convert_letter_upper_case",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Counnt_vowels_occurred",
+            "request": "launch",
+            "mainClass": "Counnt_vowels_occurred",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Count_set_bits",
+            "request": "launch",
+            "mainClass": "Count_set_bits",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Counting_sort",
+            "request": "launch",
+            "mainClass": "Counting_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Creating_two_d_array",
+            "request": "launch",
+            "mainClass": "Creating_two_d_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Decimal_to_binary",
+            "request": "launch",
+            "mainClass": "Decimal_to_binary",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Delete_at",
+            "request": "launch",
+            "mainClass": "Delete_at",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Diamond_pattern",
+            "request": "launch",
+            "mainClass": "Diamond_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Diogonal_sum_in_two_d_array",
+            "request": "launch",
+            "mainClass": "Diogonal_sum_in_two_d_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Display_all_numbers_entered_by_user_except_multiples_of_10",
+            "request": "launch",
+            "mainClass": "Display_all_numbers_entered_by_user_except_multiples_of_10",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Display_linked_list_using_only_head",
+            "request": "launch",
+            "mainClass": "Display_linked_list_using_only_head",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Display_ll_function_and_recursively",
+            "request": "launch",
+            "mainClass": "Display_ll_function_and_recursively",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "Encapsulation",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Enter_like_12345_so_on_and_print_all_even_sum_and_all_odd_sum",
+            "request": "launch",
+            "mainClass": "Enter_like_12345_so_on_and_print_all_even_sum_and_all_odd_sum",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Factorial_find_using_recursion",
+            "request": "launch",
+            "mainClass": "Factorial_find_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Fast_exponentiation_code",
+            "request": "launch",
+            "mainClass": "Fast_exponentiation_code",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "FindSubset",
+            "request": "launch",
+            "mainClass": "FindSubset",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "FindSubset_using_stringbuilder",
+            "request": "launch",
+            "mainClass": "FindSubset_using_stringbuilder",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_Max_In_ArrayList",
+            "request": "launch",
+            "mainClass": "Find_Max_In_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_displacement_in_graph",
+            "request": "launch",
+            "mainClass": "Find_displacement_in_graph",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_factorial",
+            "request": "launch",
+            "mainClass": "Find_factorial",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_first_and_last_occurrence_of_element_using_recursion",
+            "request": "launch",
+            "mainClass": "Find_first_and_last_occurrence_of_element_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_length_of_ll",
+            "request": "launch",
+            "mainClass": "Find_length_of_ll",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_length_of_string_using_recursion",
+            "request": "launch",
+            "mainClass": "Find_length_of_string_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_max_min_sum_of_subarray",
+            "request": "launch",
+            "mainClass": "Find_max_min_sum_of_subarray",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_max_value_in_two_array",
+            "request": "launch",
+            "mainClass": "Find_max_value_in_two_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_permutation",
+            "request": "launch",
+            "mainClass": "Find_permutation",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_product_of_a_and_b_in_function",
+            "request": "launch",
+            "mainClass": "Find_product_of_a_and_b_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_the_all_accurrences_in_array_and_print_using_recursion",
+            "request": "launch",
+            "mainClass": "Find_the_all_accurrences_in_array_and_print_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_the_count_of_all_contiguous_substrings_starting_and_ending_with_the_same_character",
+            "request": "launch",
+            "mainClass": "Find_the_count_of_all_contiguous_substrings_starting_and_ending_with_the_same_character",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Find_the_largest_number_in_array",
+            "request": "launch",
+            "mainClass": "Find_the_largest_number_in_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "First_occurrance_find_using_recursion",
+            "request": "launch",
+            "mainClass": "First_occurrance_find_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Friends_pairing_problem_using_recursion",
+            "request": "launch",
+            "mainClass": "Friends_pairing_problem_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Function_overloading",
+            "request": "launch",
+            "mainClass": "Function_overloading",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Function_with_parameters",
+            "request": "launch",
+            "mainClass": "Function_with_parameters",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Get_ele_using_index",
+            "request": "launch",
+            "mainClass": "Get_ele_using_index",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Get_ith_bit",
+            "request": "launch",
+            "mainClass": "Get_ith_bit",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "GridWays_Problem",
+            "request": "launch",
+            "mainClass": "GridWays_Problem",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "GridWays_Trick",
+            "request": "launch",
+            "mainClass": "GridWays_Trick",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Hello_world",
+            "request": "launch",
+            "mainClass": "Hello_world",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Hollow_rhombus_pattern",
+            "request": "launch",
+            "mainClass": "Hollow_rhombus_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "HowToDeclare_ArrayList",
+            "request": "launch",
+            "mainClass": "HowToDeclare_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Inbuilt_sort_function",
+            "request": "launch",
+            "mainClass": "Inbuilt_sort_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Insert_node_at_ny_given_index",
+            "request": "launch",
+            "mainClass": "Insert_node_at_ny_given_index",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_sort",
+            "request": "launch",
+            "mainClass": "Insertion_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "Interfaces",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Introduction_linked_list",
+            "request": "launch",
+            "mainClass": "Introduction_linked_list",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Inverted_half_pyramid_with_numbers_pattern",
+            "request": "launch",
+            "mainClass": "Inverted_half_pyramid_with_numbers_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Iterative_search",
+            "request": "launch",
+            "mainClass": "Iterative_search",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Kadanes_algorithm_Max_subarray_sum",
+            "request": "launch",
+            "mainClass": "Kadanes_algorithm_Max_subarray_sum",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Kadanes_algorithm_Max_subarray_sum_optimizable",
+            "request": "launch",
+            "mainClass": "Kadanes_algorithm_Max_subarray_sum_optimizable",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Kadanes_algorithm_min_subarray_sum",
+            "request": "launch",
+            "mainClass": "Kadanes_algorithm_min_subarray_sum",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Keep_entering_numbers_till_user_enters_multiple_of_10",
+            "request": "launch",
+            "mainClass": "Keep_entering_numbers_till_user_enters_multiple_of_10",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Largest_string",
+            "request": "launch",
+            "mainClass": "Largest_string",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Last_occurrance_find_using_recursion",
+            "request": "launch",
+            "mainClass": "Last_occurrance_find_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Lazy_copy_constructor",
+            "request": "launch",
+            "mainClass": "Lazy_copy_constructor",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Lenear_search",
+            "request": "launch",
+            "mainClass": "Lenear_search",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Lenear_search_in_two_array",
+            "request": "launch",
+            "mainClass": "Lenear_search_in_two_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Lenear_search_string",
+            "request": "launch",
+            "mainClass": "Lenear_search_string",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Lonely_numbers_in_ArrayList",
+            "request": "launch",
+            "mainClass": "Lonely_numbers_in_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Majority_of_element_in_array_recursively",
+            "request": "launch",
+            "mainClass": "Majority_of_element_in_array_recursively",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Majority_of_element_in_array_recursively_brute_force_approach",
+            "request": "launch",
+            "mainClass": "Majority_of_element_in_array_recursively_brute_force_approach",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Math_inbuilt_function",
+            "request": "launch",
+            "mainClass": "Math_inbuilt_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Merge_sort_array_of_strings_recursivily",
+            "request": "launch",
+            "mainClass": "Merge_sort_array_of_strings_recursivily",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Merge_sort_array_of_strings_recursivily_alpha_solution",
+            "request": "launch",
+            "mainClass": "Merge_sort_array_of_strings_recursivily_alpha_solution",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Merge_sort_using_recursively",
+            "request": "launch",
+            "mainClass": "Merge_sort_using_recursively",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Method_overloading",
+            "request": "launch",
+            "mainClass": "Method_overloading",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Monotonic_ArraList",
+            "request": "launch",
+            "mainClass": "Monotonic_ArraList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Most_frequent_number_ArrayList",
+            "request": "launch",
+            "mainClass": "Most_frequent_number_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Move_all_x_to_the_end_of_the_string_using_recursion",
+            "request": "launch",
+            "mainClass": "Move_all_x_to_the_end_of_the_string_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Multi_Dimensional_ArrayList",
+            "request": "launch",
+            "mainClass": "Multi_Dimensional_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Nqueens",
+            "request": "launch",
+            "mainClass": "Nqueens",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Nqueens_Count_ways",
+            "request": "launch",
+            "mainClass": "Nqueens_Count_ways",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Number_half_pyramid_pattern",
+            "request": "launch",
+            "mainClass": "Number_half_pyramid_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Optimized_x_to_the_power_n_using_recursion",
+            "request": "launch",
+            "mainClass": "Optimized_x_to_the_power_n_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Pair_Sum_Brute_Force",
+            "request": "launch",
+            "mainClass": "Pair_Sum_Brute_Force",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Pair_Sum_in_sorted_rotated_arrayList",
+            "request": "launch",
+            "mainClass": "Pair_Sum_in_sorted_rotated_arrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Pair_sum_Two_Pointer_Approach",
+            "request": "launch",
+            "mainClass": "Pair_sum_Two_Pointer_Approach",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Pairs_in_an_array",
+            "request": "launch",
+            "mainClass": "Pairs_in_an_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Palindromic_pattern_with_numbers_pattern",
+            "request": "launch",
+            "mainClass": "Palindromic_pattern_with_numbers_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Practice_bubble_sort",
+            "request": "launch",
+            "mainClass": "Practice_bubble_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Practice_counting_sort",
+            "request": "launch",
+            "mainClass": "Practice_counting_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Practice_insertion_sort",
+            "request": "launch",
+            "mainClass": "Practice_insertion_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Practice_selection_sort",
+            "request": "launch",
+            "mainClass": "Practice_selection_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Prefix_sumarray_find_max_sum_array",
+            "request": "launch",
+            "mainClass": "Prefix_sumarray_find_max_sum_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_Nth_fibonacci_number_using_recursion",
+            "request": "launch",
+            "mainClass": "Print_Nth_fibonacci_number_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_all_odd_and_even_number_till_n",
+            "request": "launch",
+            "mainClass": "Print_all_odd_and_even_number_till_n",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_all_prime_in_a_range",
+            "request": "launch",
+            "mainClass": "Print_all_prime_in_a_range",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_all_the_subsequences_of_a_string_using_recursion",
+            "request": "launch",
+            "mainClass": "Print_all_the_subsequences_of_a_string_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_all_the_unique_subsequences_of_a_string_using_recursion",
+            "request": "launch",
+            "mainClass": "Print_all_the_unique_subsequences_of_a_string_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_binary_strings",
+            "request": "launch",
+            "mainClass": "Print_binary_strings",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_character_pattern",
+            "request": "launch",
+            "mainClass": "Print_character_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_half_pyramid_pattern",
+            "request": "launch",
+            "mainClass": "Print_half_pyramid_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_hollow_rectangle_pattern",
+            "request": "launch",
+            "mainClass": "Print_hollow_rectangle_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_inverted_rotated_half_pyramid_pattern",
+            "request": "launch",
+            "mainClass": "Print_inverted_rotated_half_pyramid_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_inverted_star_pattern",
+            "request": "launch",
+            "mainClass": "Print_inverted_star_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_number_1_to_n_increasing_order_using_recursion",
+            "request": "launch",
+            "mainClass": "Print_number_1_to_n_increasing_order_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_number_frome_one_to_n",
+            "request": "launch",
+            "mainClass": "Print_number_frome_one_to_n",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_number_n_to_1_decreasing_order_using_recursion",
+            "request": "launch",
+            "mainClass": "Print_number_n_to_1_decreasing_order_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_one_solution_in_Nqueens",
+            "request": "launch",
+            "mainClass": "Print_one_solution_in_Nqueens",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_reverse_in_ArrayList",
+            "request": "launch",
+            "mainClass": "Print_reverse_in_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_reverse_of_a_number",
+            "request": "launch",
+            "mainClass": "Print_reverse_of_a_number",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_square_pattern",
+            "request": "launch",
+            "mainClass": "Print_square_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_star_pattern",
+            "request": "launch",
+            "mainClass": "Print_star_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_subarray",
+            "request": "launch",
+            "mainClass": "Print_subarray",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_sum_of_first_n_natural_numbers",
+            "request": "launch",
+            "mainClass": "Print_sum_of_first_n_natural_numbers",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_sum_of_n_natural_num_using_recursion",
+            "request": "launch",
+            "mainClass": "Print_sum_of_n_natural_num_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_sum_of_second_row",
+            "request": "launch",
+            "mainClass": "Print_sum_of_second_row",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_sum_of_subarray",
+            "request": "launch",
+            "mainClass": "Print_sum_of_subarray",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_table_of_n",
+            "request": "launch",
+            "mainClass": "Print_table_of_n",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_the_sum_diff_product_two_complex_numbers",
+            "request": "launch",
+            "mainClass": "Print_the_sum_diff_product_two_complex_numbers",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_week_name",
+            "request": "launch",
+            "mainClass": "Print_week_name",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Print_x_to_the_power_n_using_recursion",
+            "request": "launch",
+            "mainClass": "Print_x_to_the_power_n_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Question_print_sevens_num_two_d_array",
+            "request": "launch",
+            "mainClass": "Question_print_sevens_num_two_d_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Quick_sort_using_recursively",
+            "request": "launch",
+            "mainClass": "Quick_sort_using_recursively",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Quick_sort_using_recursively_2_",
+            "request": "launch",
+            "mainClass": "Quick_sort_using_recursively_2_",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Reads_a_set_of_integers_and_print_the_sum_even_and_odd_integers1",
+            "request": "launch",
+            "mainClass": "Reads_a_set_of_integers_and_print_the_sum_even_and_odd_integers1",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Remove_duplicates_in_a_string_using_recursion",
+            "request": "launch",
+            "mainClass": "Remove_duplicates_in_a_string_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Remove_first_and_last",
+            "request": "launch",
+            "mainClass": "Remove_first_and_last",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_array",
+            "request": "launch",
+            "mainClass": "Reverse_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_ll_iterative_method",
+            "request": "launch",
+            "mainClass": "Reverse_ll_iterative_method",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_string_using_recursion",
+            "request": "launch",
+            "mainClass": "Reverse_string_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_string_using_recursion_2_",
+            "request": "launch",
+            "mainClass": "Reverse_string_using_recursion_2_",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_the_given_number",
+            "request": "launch",
+            "mainClass": "Reverse_the_given_number",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Selection_sort",
+            "request": "launch",
+            "mainClass": "Selection_sort",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Set_ith_bit",
+            "request": "launch",
+            "mainClass": "Set_ith_bit",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "SizeOf_ArrayList",
+            "request": "launch",
+            "mainClass": "SizeOf_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Solid_rhombus_pattern",
+            "request": "launch",
+            "mainClass": "Solid_rhombus_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Sort_2D_array",
+            "request": "launch",
+            "mainClass": "Sort_2D_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Sorted_roateted_array_search_recursivily",
+            "request": "launch",
+            "mainClass": "Sorted_roateted_array_search_recursivily",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_An_ArrayList",
+            "request": "launch",
+            "mainClass": "Sorting_An_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_print",
+            "request": "launch",
+            "mainClass": "Spiral_print",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_print_in_2D_array",
+            "request": "launch",
+            "mainClass": "Spiral_print_in_2D_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "String_compression",
+            "request": "launch",
+            "mainClass": "String_compression",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "String_concatenate",
+            "request": "launch",
+            "mainClass": "String_concatenate",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuilder",
+            "request": "launch",
+            "mainClass": "Stringbuilder",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Substring",
+            "request": "launch",
+            "mainClass": "Substring",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Sudoku",
+            "request": "launch",
+            "mainClass": "Sudoku",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_alternating_sign_in_array",
+            "request": "launch",
+            "mainClass": "Sum_of_alternating_sign_in_array",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_digits_in_function",
+            "request": "launch",
+            "mainClass": "Sum_of_digits_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Swap_In_ArrayList",
+            "request": "launch",
+            "mainClass": "Swap_In_ArrayList",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Tiling_problem",
+            "request": "launch",
+            "mainClass": "Tiling_problem",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Tower_of_hanoi_using_reccursion",
+            "request": "launch",
+            "mainClass": "Tower_of_hanoi_using_reccursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Transpose_of_matrix",
+            "request": "launch",
+            "mainClass": "Transpose_of_matrix",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Trapping_rain_water",
+            "request": "launch",
+            "mainClass": "Trapping_rain_water",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "Update_ith_bit",
+            "request": "launch",
+            "mainClass": "Update_ith_bit",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "areaOfCircle",
+            "request": "launch",
+            "mainClass": "areaOfCircle",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "areaOfSquare",
+            "request": "launch",
+            "mainClass": "areaOfSquare",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "averageOfThreeNumbers",
+            "request": "launch",
+            "mainClass": "averageOfThreeNumbers",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "calculateTypePromotion",
+            "request": "launch",
+            "mainClass": "calculateTypePromotion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "call_by_reference_in_function",
+            "request": "launch",
+            "mainClass": "call_by_reference_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "call_by_value_in_function",
+            "request": "launch",
+            "mainClass": "call_by_value_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "checkFailPass",
+            "request": "launch",
+            "mainClass": "checkFailPass",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "checkLargestOfTwoNumber",
+            "request": "launch",
+            "mainClass": "checkLargestOfTwoNumber",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "checkOddOeven",
+            "request": "launch",
+            "mainClass": "checkOddOeven",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "check_prime_optimizable_way_in_function",
+            "request": "launch",
+            "mainClass": "check_prime_optimizable_way_in_function",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "dollarVariableInJava",
+            "request": "launch",
+            "mainClass": "dollarVariableInJava",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "elseIfStatement",
+            "request": "launch",
+            "mainClass": "elseIfStatement",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "ifElseStatement",
+            "request": "launch",
+            "mainClass": "ifElseStatement",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "incomeTaxCalculator",
+            "request": "launch",
+            "mainClass": "incomeTaxCalculator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "inputInJava",
+            "request": "launch",
+            "mainClass": "inputInJava",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "javaBasics",
+            "request": "launch",
+            "mainClass": "javaBasics",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "operatorsInJava",
+            "request": "launch",
+            "mainClass": "operatorsInJava",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "operatorsQuestions",
+            "request": "launch",
+            "mainClass": "operatorsQuestions",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "printLargestOfThree",
+            "request": "launch",
+            "mainClass": "printLargestOfThree",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "print_0_1_triangle_pattern",
+            "request": "launch",
+            "mainClass": "print_0_1_triangle_pattern",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "print_doller_100_times",
+            "request": "launch",
+            "mainClass": "print_doller_100_times",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "print_keyPad_combination_using_recursion",
+            "request": "launch",
+            "mainClass": "print_keyPad_combination_using_recursion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "sumOfTwoNumbers",
+            "request": "launch",
+            "mainClass": "sumOfTwoNumbers",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "switchStatement",
+            "request": "launch",
+            "mainClass": "switchStatement",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "takeItemAndPrintBillWithGst",
+            "request": "launch",
+            "mainClass": "takeItemAndPrintBillWithGst",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "ternaryOperator",
+            "request": "launch",
+            "mainClass": "ternaryOperator",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "typeCastingInJava",
+            "request": "launch",
+            "mainClass": "typeCastingInJava",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "typeConversionInJava",
+            "request": "launch",
+            "mainClass": "typeConversionInJava",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "typePromotion",
+            "request": "launch",
+            "mainClass": "typePromotion",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
+            "name": "typePromotion2",
+            "request": "launch",
+            "mainClass": "typePromotion2",
+            "projectName": "DSA JAVA_943ef1c2"
+        }
+    ]
+}
