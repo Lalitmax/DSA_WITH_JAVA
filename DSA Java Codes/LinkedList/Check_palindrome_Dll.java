@@ -72,7 +72,7 @@
    
       public static void main(String[] args) {
          LinkedList dll = new LinkedList();
-   
+
          dll.addFirst(1);
          dll.addFirst(2);
          dll.addFirst(3);
