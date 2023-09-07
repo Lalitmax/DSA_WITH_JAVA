@@ -78,6 +78,8 @@ public class Reverse_ll_iterative_method {
         ll.addLast(3);
         ll.addLast(4);
         ll.addLast(5);
+        ll.addLast(6);
+        ll.addLast(7);
 
          ll.print();
         ll.reverse();
