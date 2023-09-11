@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Activity_selection",
+            "request": "launch",
+            "mainClass": "Activity_selection",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
