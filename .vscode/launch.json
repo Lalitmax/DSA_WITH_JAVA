@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Chocola_problem",
+            "request": "launch",
+            "mainClass": "Chocola_problem",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
             "name": "Activity_selection",
             "request": "launch",
             "mainClass": "Activity_selection",
