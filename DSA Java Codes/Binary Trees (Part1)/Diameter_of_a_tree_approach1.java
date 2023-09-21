@@ -1,4 +1,4 @@
-public class Diameter_of_a_tree {
+public class Diameter_of_a_tree_approach1 {
    static class Node{
       int data;
       Node left,right;

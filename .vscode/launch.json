@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subtree_of_another_tree$BinaryTree",
+            "request": "launch",
+            "mainClass": "Subtree_of_another_tree$BinaryTree",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
             "name": "Height_of_a_tree",
             "request": "launch",
             "mainClass": "Height_of_a_tree",
