@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "k_th_level",
+            "request": "launch",
+            "mainClass": "k_th_level",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
             "name": "K_th_level_of_a_tree_using_iterative",
             "request": "launch",
             "mainClass": "K_th_level_of_a_tree_using_iterative",
