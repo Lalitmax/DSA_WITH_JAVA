@@ -49,7 +49,8 @@ public class find_largest_path {
 
      if( lh.maxHeight>rh.maxHeight){
          return new flag(sum+lh);
-     }
+     
+      }
 
       return Mathmax(Math.max());
    }
