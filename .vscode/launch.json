@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Convert_bst_to_balanced_bst",
+            "request": "launch",
+            "mainClass": "Convert_bst_to_balanced_bst",
+            "projectName": "DSA JAVA_943ef1c2"
+        },
+        {
+            "type": "java",
             "name": "k_th_level",
             "request": "launch",
             "mainClass": "k_th_level",
