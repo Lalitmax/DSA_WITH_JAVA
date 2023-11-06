@@ -14,6 +14,7 @@ public class Kadanes_algorithm_Max_subarray_sum_optimizable {
             }
 
         }
+        
         int max = arr[arr.length - 1]; // get max num ( in last array)
 
         if (max < 0) {
