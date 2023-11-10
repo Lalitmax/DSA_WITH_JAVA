@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
-public class Remove_from_Heap {
-   static class Heap{
+public class Min_heap {
+    static class MinHeap{
       ArrayList<Integer> arr = new ArrayList<>();
 
       public void add(int data){
@@ -79,7 +79,7 @@ public class Remove_from_Heap {
    }
     public static void main(String args[]){
 
-      Heap pq = new Heap();
+      MinHeap pq = new MinHeap();
       pq.add(2);
       pq.add(3);
       pq.add(4);
@@ -95,4 +95,5 @@ public class Remove_from_Heap {
       }
       
    }
+   
 }
