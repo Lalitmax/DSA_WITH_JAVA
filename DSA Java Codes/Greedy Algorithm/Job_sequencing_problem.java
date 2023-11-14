@@ -14,8 +14,7 @@ public class Job_sequencing_problem {
       }
    }
    public static void main(String[] args) {
-      int jobInfo[][] = {{4,20},{1,10},{1,40},{1,30}};
-,                                                  
+      int jobInfo[][] = {{4,20},{1,10},{1,40},{1,30}};                                                 
       ArrayList<Job> jobs = new ArrayList<>();
 
       for(int i=0; i<jobInfo.length; i++){

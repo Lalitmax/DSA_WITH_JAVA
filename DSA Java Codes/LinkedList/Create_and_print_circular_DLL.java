@@ -5,7 +5,7 @@ public class Create_and_print_circular_DLL {
       Node prev;
 
       public Node(int data) {
-         this.data = data;hh
+         this.data = data;
       }
 
    }
