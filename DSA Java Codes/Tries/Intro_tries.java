@@ -13,6 +13,7 @@ public class Intro_tries {
         }
  
     }
+    
     public static Node root = new Node();
     public static void main(String args[]){
         System.out.print("Tries Data Structure");
