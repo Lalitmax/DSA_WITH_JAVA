@@ -49,6 +49,6 @@ public class Search_in_a_trie {
             insert(words[i]);
         }
 
-        System.out.print(search("the"));
+        System.out.print(search("an"));
     }
 }
