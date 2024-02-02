@@ -12,6 +12,7 @@ public class Add_first_LL {
         Node head =null;
         Node tail = null;
 
+        
         void addFirst(int data){
             Node temp = new Node(data);
 
