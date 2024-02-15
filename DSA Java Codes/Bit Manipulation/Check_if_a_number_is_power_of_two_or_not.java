@@ -10,7 +10,7 @@ public class Check_if_a_number_is_power_of_two_or_not {
 
     public static void main(String args[]) {
 
-        System.out.println(isPowerOfTwo(32));
+        System.out.println(isPowerOfTwo(9));
 
     }
 }
