@@ -4,7 +4,7 @@ Welcome to the "DSA With Java" repository! Here, you will find organized Java co
 
 ## Folder Structure
 
-1. **DSA code java:**
+1. **DSA java code:**
    - This folder contains Java code organized by topics such as arrays, linked lists, stacks, queues, trees, tries, graphs, and dynamic programming.
 
 2. **DSA practice problems:**
@@ -20,7 +20,7 @@ Welcome to the "DSA With Java" repository! Here, you will find organized Java co
 
 ## Contribution
 
-Feel free to contribute by adding more code examples, practice problems, or improving the existing content. Follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
+Feel free to contribute by adding more code examples, practice problems, or improving the existing content. Follow the guidelines in the [CONTRIBUTING.md]([CONTRIBUTING.md](https://github.com/Lalitmax/DSA_WITH_JAVA/edit/main/README.md)) file for details.
 
 ## Resources
 
