@@ -20,7 +20,7 @@ Welcome to the "DSA With Java" repository! Here, you will find organized Java co
 
 ## Contribution
 
-Feel free to contribute by adding more code examples, practice problems, or improving the existing content. Follow the guidelines in the [CONTRIBUTING.md]([CONTRIBUTING.md](https://github.com/Lalitmax/DSA_WITH_JAVA/edit/main/README.md)) file for details.
+Feel free to contribute by adding more code examples, practice problems, or improving the existing content 
 
 ## Resources
 
