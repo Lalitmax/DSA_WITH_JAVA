@@ -50,21 +50,14 @@ class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         
-        int V = 6;
-        
+        int V  = 2;
         ArrayList<Edge>[] graph = new ArrayList[V];
-        
-        for(int i=0; i<V; i++){
-            graph[i] = new ArrayList<>();
-        }
-        
-        
-        graph[2].add(new Edge(2,3));
-        graph[3].add(new Edge(3,1));
-        graph[4].add(new Edge(4,0));
-        graph[4].add(new Edge(4,1));
-        graph[5].add(new Edge(5,0));
-        graph[5].add(new Edge(5,2));
+
+        for(int i=0; i<V; i++) graph[i] =new ArrayList<>();
+
+
+        graph[0].add(new Edge(0,1));
+        graph[1].add(new Edge(1,0));
         
         topSort(graph);
         
