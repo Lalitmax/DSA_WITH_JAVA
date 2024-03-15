@@ -16,6 +16,7 @@ public class Disjoint_set{
                 par[i] = i;
             }
         }
+
           
         static int find(int x){
             if(x==par[x]){
@@ -51,7 +52,7 @@ public class Disjoint_set{
 	public static void main(String[] args) {
 	    
 	    DisjointSet ds = new DisjointSet(7);
-	      System.out.println(ds.find(3));
+	    System.out.println(ds.find(3));
 	    ds.union(1,3);
 	    System.out.println(ds.find(3));
 	    ds.union(2,4);
@@ -59,7 +60,6 @@ public class Disjoint_set{
 	    ds.union(1,4);
 	    System.out.println(ds.find(3));
 	    System.out.println(ds.find(4));
-	    
 	    ds.union(1,5);
 	    
 	    
