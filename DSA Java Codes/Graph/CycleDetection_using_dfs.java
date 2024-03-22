@@ -4,6 +4,7 @@ public class CycleDetection {
 
     static class Edge {
         int src;
+        
         int dest;
         int wt;
 
