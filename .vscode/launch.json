@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Floyd_warshall_algorithm",
+            "request": "launch",
+            "mainClass": "Floyd_warshall_algorithm",
+            "projectName": "DSA_WITH_JAVA_77734693"
+        },
+        {
+            "type": "java",
             "name": "Priority_Queue",
             "request": "launch",
             "mainClass": "Priority_Queue",
