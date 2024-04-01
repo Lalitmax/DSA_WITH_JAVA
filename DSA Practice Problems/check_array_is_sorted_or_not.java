@@ -20,3 +20,24 @@ public class check_array_is_sorted_or_not {
 
    }
 }
+
+
+
+class Solution {
+   public int minimumSubarrayLength(int[] nums, int k) {
+       int left = 0;
+       int minLength = Integer.MAX_VALUE;
+       int currentOr = 0;
+       
+       for (int right = 0; right < nums.length; right++) {
+           currentOr |= nums[right];
+           
+           while (currentOr >= k) {
+               minLength = Math.min(minLength, right - left + 1);
+               currentOr &= ~nums[left++];
+           }
+       }
+       
+       return minLength == Integer.MAX_VALUE ? -1 : minLength;
+   }
+}
